@@ -1,8 +1,9 @@
 # EssbaseBatchMigration
 Platform agnostic POC to migrate Essbase Applications across different servers in batch.
 Official API GUIDE (https://docs.oracle.com/cd/E57185_01/ESBJD/index.html)
+ess_japi.jar file can be found in "%MIDDLEWARE_HOME%\EPMSystem11R1\common\EssbaseJavaAPI\11.1.2.0\lib\" directory.
 
-- This solutions supports Migration of Essbase application across cross platform servers including all the artifacts along with the data.
+*This solutions supports Migration of Essbase application across cross platform servers including all the artifacts along with the data.
 
 Compile:\
 javac -classpath .:ess_japi.jar Migration.java (Linux)\
