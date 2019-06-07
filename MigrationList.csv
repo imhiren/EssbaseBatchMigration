@@ -1,0 +1,2 @@
+SourceProvider,SourceServerName,SourceUsername,SourcePassword,SourceApplicationName,Source CUbE,SourceOS,SourceSharedPath,destinationProvider,destinationServerName,destinationUsername,destinationPassword,destinationOS,destinationSharedPath
+http://10.0.0.1:19000/aps/JAPI,EssbaseCluster-1,admin,password,App01,DB01,UNIX,/Share/migration,http://10.0.0.2:19000/aps/JAPI,EssbaseCluster-1,admin,password,WINDOWS,/Share/Migration
